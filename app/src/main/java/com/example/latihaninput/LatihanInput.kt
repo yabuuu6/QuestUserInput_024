@@ -129,7 +129,6 @@ fun LatihanInput (modifier : Modifier = Modifier){
 fun DetailSurat(
     judul:String, isinya : String
 ) {
-
     Column(
         modifier = Modifier.fillMaxWidth().padding(16.dp),
     ) {
